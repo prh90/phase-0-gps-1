@@ -1,4 +1,4 @@
-**Nintendo**
+# **Nintendo**
 
 *Super Mario Bros*
 
